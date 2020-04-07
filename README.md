@@ -8,3 +8,6 @@ Amalgamation of protein sequence, structure and textual information for improvin
 - **Authors:** Pratik Dutta and Sriparna Saha
 - **Affiliation:** Department of Computer Science and Engineering, Indian Institute of Technology Patna, India
 - **Accepted:(03/04/2020)** [Annual Conference of the Association for Computational Linguistics(ACL 2020)](https://acl2020.org/)
+
+
+![flowchart](https://user-images.githubusercontent.com/29531232/78711997-892ee180-7935-11ea-8c63-bd29f3bdac79.png)
