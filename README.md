@@ -18,8 +18,7 @@ If you find this multi-modal dataset or the article useful, consider citing our 
 ```bash
 @inproceedings{dutta-saha-2020-amalgamation,
     title = "Amalgamation of protein sequence, structure and textual information for improving protein-protein interaction identification",
-    author = "Dutta, Pratik  and
-      Saha, Sriparna",
+    author = "Dutta, Pratik  and  Saha, Sriparna",
     booktitle = "Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics",
     month = jul,
     year = "2020",
