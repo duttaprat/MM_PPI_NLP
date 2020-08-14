@@ -3,7 +3,7 @@ Amalgamation of protein sequence, structure and textual information for improvin
 
 ## This is the readme file that contains the guidelines and information about the compilation of the code of the following paper
 
-**Paper Name:-** [Amalgamation of protein sequence, structure and textual information for improving protein-protein interaction identification]()
+**Paper Name:-** [Amalgamation of protein sequence, structure and textual information for improving protein-protein interaction identification](https://www.aclweb.org/anthology/2020.acl-main.570.pdf)
 
 - **Authors:** Pratik Dutta and Sriparna Saha
 - **Affiliation:** Department of Computer Science and Engineering, Indian Institute of Technology Patna, India
